@@ -36,7 +36,7 @@ export default function App() {
         <View/>
       ) : (
         <View style={styles.footerContainer}>
-        <View/>
+        </View>
       )}
 
       <View style={styles.footerContainer}>
