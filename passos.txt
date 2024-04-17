@@ -2,6 +2,8 @@ Configurar o Git Local:
 git config --global user.name Catisinha
 git config --global user.email luacoutinhor@gmail.com
 
+npm i
+
 Documentação oficial do Expo:
 docs.expo.dev
 
@@ -15,7 +17,6 @@ npx create-expo-app StickerSmash
 
 cd StickerSmash
 
-npm i
 
 npx expo install react-dom react-native-web @expo/webpack-config
 
